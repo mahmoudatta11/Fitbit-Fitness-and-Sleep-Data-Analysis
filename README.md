@@ -23,7 +23,7 @@ An exploratory data analysis (EDA) and interactive web dashboard analyzing daily
 * **Insight**: Sedentary time makes up the majority of daily tracking logs, highlighting a clear opportunity for automated inactivity alerts and periodic movement prompts.
 
 ### 3. Average Steps Taken by Day of the Week
-![Average Steps Taken by Day of the Week](Visualizations/average_steps_taken_by_day_of_the_week.png)
+![Average Steps Taken by Day of the Week](Visualizations/average_steps_ taken_by_day_of_the_week.png)
 * **Insight**: Identifies day-by-day activity fluctuations throughout the week, helping pinpoint specific days where user engagement dips.
 
 ### 4. User Classification by Wear Frequency
